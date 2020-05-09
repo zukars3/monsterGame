@@ -41,7 +41,6 @@
           class="mr-2"
           @click="gameIsRunning = false; winner = 'monster'"
         >Give up</b-button>
-        <b-button href="#" variant="success" @click="restart" v-show="!gameIsRunning">Start new Game</b-button>
       </b-card>
       <b-card class="mb-2 text-center d-flex" v-if="!gameIsRunning">
         <b-button href="#" variant="success" @click="restart">Start new Game</b-button>
