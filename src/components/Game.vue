@@ -176,7 +176,7 @@ export default {
     }
   }
 };
-</script>  justify-content: flex-start;
+</script>
 
 <style scoped>
 .container {
