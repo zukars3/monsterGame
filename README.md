@@ -1,6 +1,6 @@
 # monster game
 
-![alt text](/monster.gif)
+![gif image showing usage](/monster.gif)
 
 ## Project setup
 ```
