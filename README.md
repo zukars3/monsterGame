@@ -1,4 +1,4 @@
-# monster game
+# monster fighting game
 
 ![gif image showing usage](/monster.gif)
 
